@@ -5,6 +5,7 @@
 ```bash
 make bbs
 ```
+Upon calling the saveSkyline method in SkylineTest.java, the results can be found in the target/skyline/ folder.
 
 ## Methods
 We implemented a BBSkyline object as specified in src/java/BBSkyline.java.
