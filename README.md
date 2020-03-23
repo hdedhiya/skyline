@@ -3,8 +3,11 @@
 ## How to run
 
 ```bash
-make bbs
+cd skyline
+mvn clean install
 ```
+
+Standard maven project that has rtree in the pom file, run tests in main function of src/test/java/SkylineTest.java
 Upon calling the saveSkyline method in SkylineTest.java, the results can be found in the target/skyline/ folder.
 
 ## Methods
