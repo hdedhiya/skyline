@@ -50,7 +50,7 @@ public class SkylineTest {
         BBSkyline bbs = new BBSkyline();
         saveSkyline(bbs, makeSFile(PWD));
         // bbs.insert(38.2, 24.8);
-        bbs.delete(34.78, 19.24, true);
-        saveSkyline(bbs, makeSFile(PWD));
+        //bbs.delete(34.78, 19.24, true);
+        //saveSkyline(bbs, makeSFile(PWD));
     }
 }
